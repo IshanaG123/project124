@@ -1,0 +1,40 @@
+body{
+    background-image: "abstract";
+}
+
+h3{
+    background-color: hotpink;
+   font-family: cursive;
+}
+
+
+h2{
+    font-family: cursive;
+}
+
+canvas{
+   border: 5px solid hotpink;
+   border-radius: 20px ;
+   position: sticky;
+   position: center;
+}
+
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: hotpink;
+    color: black;
+    text-align: center;
+    font-family: cursive;
+  }
+
+
+  .span{
+    font-size: 18px;
+  }
+  
